@@ -1,5 +1,4 @@
-![image](https://github.com/theman-oj10/IBM-Data-Science-and-ML-Capstone-Project/assets/85360326/b378afec-553f-4c62-997c-92b1a0d09dfe)# IBM-Data-Science-and-ML-Capstone-Project
-IBM Data Science and ML Capstone Project
+# IBM Data Science and ML Capstone Project
 
 #### Project Background and Context:
 Objective: Analyze SpaceX launch data to uncover patterns, improve launch success rates, and predict outcomes.
